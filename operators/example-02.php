@@ -12,3 +12,4 @@ var_dump($a != $b); //o valor de a tem que ser diferente de b, compara somente o
 echo "<br/>";
 
 var_dump($a !== $b); //o valor ou o tipo devem ser diferentes, compara valor e tipagem
+
