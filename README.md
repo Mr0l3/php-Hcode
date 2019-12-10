@@ -1,2 +1,2 @@
 # php-Hcode
-Arquivos do curso de PHP da Hcode
+Repositório para arquivos do curso de PHP da Hcode
